@@ -17,8 +17,7 @@ Welcome to the Calculator App, a simple and user-friendly calculator for perform
 
 ### Usage
 
-1. Visit the [Calculator App](https://example.com/calculator) website.
-2. Enter numbers and mathematical operators using either the keyboard or the on-screen buttons.
+1. Enter numbers and mathematical operators using either the keyboard or the on-screen buttons.
 3. Click the "=" button or press Enter to calculate the result.
 4. Enjoy quick and accurate calculations!
 
