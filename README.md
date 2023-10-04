@@ -26,9 +26,4 @@ Welcome to the Calculator App, a simple and user-friendly calculator for perform
 - Built with HTML, CSS, and JavaScript.
 
 ## Screenshots
-
-
-
-
-
-
+![calculator]https://github.com/selamyu/calculator/blob/master/calculator.png
